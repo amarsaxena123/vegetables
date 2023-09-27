@@ -2,6 +2,9 @@ html {
   height: 100%;
   width: 100%;
 }
+table {
+  background-color : green;
+}
 th,td{
   padding: 8px;
   border: 1px solid black;
